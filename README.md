@@ -1,7 +1,7 @@
 # banking-application
 Banking Application using JAVA
 This project deals with some of the basic functionalities of banking applications like:
-*Checking the balance of your account
+*Checking the balance of your account\n
 *Deposit money to your account
 *Withdraw money from your account
 *Shows Recent transaction(Provides Previous transaction made with your account)
